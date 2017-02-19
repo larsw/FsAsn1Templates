@@ -1,0 +1,25 @@
+type project
+title
+    FsAsn1Templates
+owners
+    Lars Wilhelmsen <lars@sral.org>
+authors 
+    Lars Wilhelmsen <lars@sral.org>
+projectUrl
+    https://github.com/larsw/FsAsn1Templates
+iconUrl
+    https://raw.githubusercontent.com/larsw/FsAsn1Templates/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/larsw/FsAsn1Templates/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2017 Lars Wilhelmsen all rights reserved.
+tags
+    asn1 dsl fsharp
+summary
+    F#-based Templating DSL for ASN.1 data structures
+description
+    Description not set
+
+

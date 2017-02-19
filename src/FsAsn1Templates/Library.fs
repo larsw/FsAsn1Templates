@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace FsAsn1Templates
 
 /// Documentation for my library
 ///

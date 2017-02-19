@@ -11,17 +11,17 @@
 // (This is the original behaviour of ProjectScaffold prior to multi project support)
 let referenceBinaries = []
 // Web site location for the generated documentation
-let website = "/##ProjectName##"
+let website = "/FsAsn1Templates"
 
-let githubLink = "##GitUrl##/##GitHome##/##GitName##"
+let githubLink = "https://github.com/larsw/FsAsn1Templates"
 
 // Specify more information about your project
 let info =
-  [ "project-name", "##ProjectName##"
-    "project-author", "##Author##"
-    "project-summary", "##Summary##"
+  [ "project-name", "FsAsn1Templates"
+    "project-author", "Lars Wilhelmsen <lars@sral.org>"
+    "project-summary", "F#-based Templating DSL for ASN.1 data structures"
     "project-github", githubLink
-    "project-nuget", "http://nuget.org/packages/##ProjectName##" ]
+    "project-nuget", "http://nuget.org/packages/FsAsn1Templates" ]
 
 // --------------------------------------------------------------------------------------
 // For typical project, no changes are needed below
