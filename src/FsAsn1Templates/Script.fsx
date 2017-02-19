@@ -3,6 +3,3 @@
 
 #load "Library.fs"
 open FsAsn1Templates
-
-let num = Library.hello 42
-printfn "%i" num
